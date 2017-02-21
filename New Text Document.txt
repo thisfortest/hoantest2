@@ -1,2 +1,4 @@
 Đến cả con khỉ cũng hiểu được lệnh Git
 dong 2
+
+dong 4
