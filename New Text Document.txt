@@ -1,4 +1,10 @@
 Đến cả con khỉ cũng hiểu được lệnh Git
+<<<<<<< .mine
 dong 2
 
 dong 4
+=======
+dong 2
+dong 3
+
+>>>>>>> .theirs
